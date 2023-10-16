@@ -1,0 +1,166 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Jumblie Türkçe | Kelime arama oyunu</title>
+
+    <meta name="description" content="Her gün yeni kelimeler ve temalarla bir kelime arama oyunu">
+
+    <meta property="og:url" content="https://jumblie-tr.saygin.org">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Jumblie Türkçe">
+    <meta property="og:description" content="Her gün yeni kelimeler ve temalarla bir kelime arama oyunu">
+    <meta property="og:image" content="https:/jumblie-tr.saygin.org/assets/og.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="jumblie-tr.saygin.org">
+    <meta property="twitter:url" content="https://jumblie-tr.saygin.org">
+    <meta name="twitter:title" content="Jumblie Türkçe">
+    <meta name="twitter:description" content="Her gün yeni kelimeler ve temalarla bir kelime arama oyunu">
+    <meta name="twitter:image" content="https://jumblie-tr.saygin.org/assets/twitterog.png">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon-16x16.png">
+    <link rel="manifest" href="./assets/site.webmanifest">
+    <link rel="mask-icon" href="./assets/safari-pinned-tab.svg" color="#02486e">
+    <link rel="shortcut icon" href="./assets/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-config" content="./assets/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header>
+        <div class="header-chunk">
+            <h1 class="brand mb2">Jumblie Türkçe</h1>
+            <div class="header-subs">   
+                <time id="today"></time>
+                <button class="header-icon" id="stats">
+                    <img src="./assets/stats.svg" alt="istatistikler">
+                </button>
+            </div>
+        </div>
+        <div class="today-theme hidden-start">
+            <p><strong>Bugünün Teması</strong></p>
+            <p id="theme"></p>
+        </div>
+        <div class="header-chunk end">
+            <div>
+                <button class="black mb2" id="help">Yardım</button>
+                <div class="header-subs hidden-start">
+                    <button class="header-icon" id="pause">
+                        <img src="./assets/pause.svg" alt="duraklat">
+                    </button>
+                    <div id="timer">00:00</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <dialog id="helpDialog">
+        <h2><span class="brand">Jumblie Türkçe</span> Nasıl Oynanır?</h2>
+        <p>
+            Harfler arasında tam olarak dört kelime gizlidir ve tüm harfler sadece bir kez kullanılır. Kelimeler her zaman 4 ile 9 harf arasında olacaktır.
+        </p>
+        <p>
+            Bir kelime yazmak için harflere tıklayın (veya klavyenizde yazın). Göndermek istediğiniz bir kelimeniz olduğunda, "Gönder" düğmesine tıklayın. Kelime, günlük kelimelerden biriyse, bulduğunuz kelimeler listesine eklenecektir. Dört kelimeyi de en hızlı şekilde bulun!
+        </p>
+        <p>Her başarılı kelime bir renkle atanır:</p>
+        <ul>
+            <li>🔴 En kısa kelime</li>
+            <li>🟠 <span>↓</span></li>
+            <li>🟢</li>
+            <li>🔵 En uzun</li>
+        </ul>
+        <form method="dialog">
+            <button class="black">Anladım!</button>
+        </form>
+    </dialog>
+
+    <dialog id="statsDialog">
+        <h2><span class="brand">Jumblie Türkçe</span> İstatistikleriniz</h2>
+        <p>
+            <strong>Toplam oynanan oyun:</strong> <span id="totalDaysPlayed"></span>
+        </p>
+        <p><strong>Mevcut seri:</strong> <span id="currentStreak"></span></p>
+        <p><strong>En uzun seri:</strong> <span id="longestStreak"></span></p>
+        <p><strong>En iyi süreler:</strong></p>
+        <table border="0">
+            <thead>
+                <tr>
+                    <th>Tarih</th>
+                    <th>Çözme süresi</th>
+                </tr>
+            </thead>
+            <tbody id="fastestTimes"></tbody>
+        </table>
+        <form method="dialog">
+            <button class="black">Harika!</button>
+        </form>
+    </dialog>    
+
+    <div id="splash">
+        <h2 id="splashTitle">Bugünün Teması</h2>
+        <h3 id="splashTheme"></h3>
+        <button class="black" id="start">Başla</button>
+    </div>
+    
+    <div id="container">
+        <div class="mobile-theme">
+            <p><strong>Bugünün Teması:</strong> <span id="mobile"></span></p>
+        </div>
+        <div class="working-word">
+            <span id="initial">Yazın veya tıklayın!</span>
+            <span id="workingWord"></span>
+        </div>
+        <div class="grid" id="letterGrid"></div>
+        <div class="submission">
+            <button class="white" id="shuffle" onclick="shuffleLetters()">
+                Karıştır
+            </button>
+            <button class="white" id="delete" onclick="deselectAll()">
+                Tümünü Kaldır
+            </button>
+            <button class="black" id="submit">Gönder</button>
+        </div>
+        <div class="message">
+            <p id="message"></p>
+            <button class="black hidden mb2" id="share" onclick="copyScore()">
+                Skorumu Paylaş
+            </button>
+        </div>
+        <ul class="word-result" id="wordsList"></ul>
+    
+        <details>
+            <summary>
+                <strong>Yanlış tahminler (<span id="wrong">0</span>)</strong>
+            </summary>
+            <ul id="guesses"></ul>
+        </details>
+    
+        <div class="jumb-share">
+            <button class="black" id="jshare" onclick="shareLink()">
+                <span class="brand">Jumblie Türkçe</span>'yi Paylaş
+            </button>
+        </div>
+    </div>
+    
+
+    <footer>
+        <span class="brand">Jumblie Türkçe</span> 
+        <a href="https://saygin.org" style="margin-left: 3px">@sayginburak</a>
+        tarafından sunulmuştur.
+        <p>
+            <span>Orijinal konsept:</span> <a href="https://cassidoo.co"> @cassidoo!</a>
+        </p>
+    </footer>
+
+    <script src="./words/wordlist.js"></script>
+    <script src="./dailyWords.js"></script>
+    <script src="./time.js"></script>
+    <script src="./localStorage.js"></script>
+    <script src="./game.js"></script>
+
+
+</body></html>

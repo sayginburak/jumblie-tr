@@ -1,0 +1,458 @@
+html {
+	font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+	font-size: 1.3em;
+	max-width: 40rem;
+	padding: 2rem 2rem 0;
+	margin: auto;
+	line-height: 1.5rem;
+}
+
+button {
+	font-size: 20px;
+	font-weight: 700;
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+button.letter-button {
+	width: 50px;
+	height: 50px;
+	margin: 5px;
+	background: #efe9e6;
+	color: #000000;
+}
+
+button.letter-button.selected {
+	background: #5a534e;
+	color: #ffffff;
+}
+
+button.black {
+	height: 40px;
+	padding: 0 30px;
+	background: #000000;
+	color: #ffffff;
+	border: 3px solid #000000;
+	border-radius: 40px;
+}
+
+button.black:active {
+	background: #ffffff;
+	color: #000000;
+}
+
+button.white {
+	height: 40px;
+	padding: 0 30px;
+	background: #ffffff;
+	color: #000000;
+	border: 3px solid #000000;
+	border-radius: 40px;
+}
+
+button.white:active {
+	background: #000000;
+	color: #ffffff;
+}
+
+button.header-icon {
+	padding: 2px;
+	margin-right: 10px;
+	width: 24px;
+	height: 24px;
+	background: #efe9e6;
+	line-height: 20px;
+}
+
+.jumb-share {
+	text-align: center;
+}
+
+time {
+	margin-right: 10px;
+}
+
+.header-subs {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+dialog {
+	position: absolute;
+	top: 20px;
+	background: #efe9e6;
+	border-radius: 5px;
+	padding: 20px;
+	max-width: clamp(16rem, 50vw, 40rem);
+}
+
+dialog h2 {
+	position: relative;
+	margin: 0;
+}
+
+dialog::backdrop {
+	backdrop-filter: blur(2px);
+}
+
+dialog ul {
+	width: 80%;
+	list-style-type: none;
+	padding: 0;
+}
+
+dialog ul li {
+	position: relative;
+}
+
+dialog ul li span {
+	position: absolute;
+	top: 10px;
+	left: 30px;
+	font-size: 2.5rem;
+}
+
+dialog#statsDialog p {
+	margin: 10px 0;
+}
+
+table {
+	width: 100%;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+table,
+th,
+td {
+	border: 1px solid #000000;
+	border-collapse: collapse;
+}
+
+table thead {
+	background: rgba(0, 0, 0, 0.1);
+}
+
+table td {
+	width: 50%;
+	padding: 10px;
+}
+
+details {
+	padding-bottom: 20px;
+}
+
+details summary {
+	cursor: pointer;
+}
+
+details summary > * {
+	display: inline;
+}
+
+details summary strong {
+	padding-left: 15px;
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #000000;
+}
+
+header h1 {
+	position: relative;
+	margin: 0;
+	line-height: 40px;
+}
+
+.brand {
+	position: relative;
+    width: 310px;
+}
+
+.brand::after {
+	position: absolute;
+	top: 0;
+	right: -10px;
+	display: block;
+	content: "";
+	background-image: url("./assets/gem.png");
+	background-size: contain;
+	width: 15px;
+	height: 15px;
+	animation: rotate 20s linear infinite;
+}
+
+span.brand::after {
+	right: -8px;
+	width: 12px;
+	height: 12px;
+}
+
+button span.brand::after {
+	right: -8px;
+	width: 8px;
+	height: 8px;
+}
+
+footer span.brand::after {
+	top: 1px;
+	right: -3px;
+	width: 5px;
+	height: 5px;
+}
+
+.mb2 {
+	margin-bottom: 2px;
+}
+
+header div {
+	text-align: center;
+}
+
+header .header-chunk {
+	width: 160px;
+}
+
+header .header-chunk.end {
+	display: flex;
+	justify-content: flex-end;
+}
+
+header .today-theme {
+	flex-grow: 1;
+}
+
+header .today-theme strong {
+	height: 40px;
+}
+
+header .today-theme p {
+	margin: 0;
+}
+
+header div:first-child {
+	text-align: left;
+}
+
+.mobile-theme {
+	display: none;
+	text-align: center;
+}
+
+.hidden-start {
+	visibility: hidden;
+}
+
+#splash {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+	background: #efe9e6;
+	height: calc(100vh - 10rem);
+	text-align: center;
+}
+
+#splash h2,
+#splash h3 {
+	margin: 0;
+}
+
+#splash h2 {
+	margin-bottom: 10px;
+}
+
+#splash h3 {
+	margin-bottom: 20px;
+	font-weight: 400;
+}
+
+#container {
+	display: none;
+	margin-top: 10px;
+}
+
+.working-word {
+	padding: 20px;
+	text-align: center;
+}
+
+.working-word span {
+	position: relative;
+	height: 25px;
+}
+
+.working-word #initial {
+	display: inline-block;
+}
+
+.working-word #workingWord::after {
+	position: absolute;
+	top: 0;
+	right: -2px;
+	display: block;
+	content: "";
+	width: 100%;
+	height: 100%;
+	border-right: 2px solid #efe9e6;
+	animation: 1s blink infinite;
+	box-sizing: border-box;
+}
+
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.submission {
+	padding: 20px 20px 0;
+	text-align: center;
+}
+
+.submission button {
+	margin: 5px;
+}
+
+.word-result,
+#guesses {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	list-style-type: none;
+	width: 100%;
+	padding: 0;
+}
+
+.word-result li,
+#guesses li {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 60px;
+	border-radius: 5px;
+	margin: 0 2px 5px;
+}
+
+#guesses li {
+	color: #000000;
+	padding: 0 20px;
+	font-weight: 500;
+}
+
+.word-result li {
+	width: 200px;
+	color: #ffffff;
+}
+
+.word-result .word-0 {
+	background: #d62828;
+}
+
+.word-result .word-1 {
+	background: #f77f00;
+}
+
+.word-result .word-2 {
+	background: #38b000;
+}
+
+.word-result .word-3 {
+	background: #02486e;
+}
+
+.message {
+	font-weight: 600;
+	text-align: center;
+}
+
+.hidden {
+	display: none;
+}
+
+.shake {
+	position: relative;
+	animation: shakeLeftRight 0.2s linear infinite;
+}
+
+footer {
+	text-align: center;
+	padding: 20px;
+	font-size: 0.75rem;
+	line-height: 1rem;
+	color: gray;
+}
+
+footer a {
+	color: gray;
+}
+
+@keyframes blink {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+@keyframes rotate {
+	0%,
+	100% {
+		transform: rotate(0deg);
+	}
+	25% {
+		transform: rotate(90deg);
+	}
+	50% {
+		transform: rotate(180deg);
+	}
+	75% {
+		transform: rotate(270deg);
+	}
+}
+
+@keyframes shakeLeftRight {
+	0%,
+	100% {
+		transform: translateX(0);
+	}
+	25% {
+		transform: translateX(-5px);
+	}
+	50% {
+		transform: translateX(0);
+	}
+	75% {
+		transform: translateX(5px);
+	}
+}
+
+@media (max-width: 600px) {
+	html {
+		padding: 1rem 1rem 0;
+	}
+	header .today-theme {
+		display: none;
+	}
+	.mobile-theme {
+		display: block;
+	}
+	button.letter-button {
+		margin: 2px;
+	}
+	.working-word {
+		padding: 0 20px 20px;
+	}
+	.word-result li {
+		width: 160px;
+	}
+}
