@@ -281,7 +281,7 @@ function extractNsFromList() {
 
 function win() {
 	let finalTime = endGame();
-	scoreString += `${convertTimeHMS(finalTime)}'de \n${guessedWords} tahmin\nhttps://jumblie-tr.saygin.org`;
+	scoreString += `${convertTimeHMS(finalTime)}'de \n${guessedWords} tahmin\nhttps://saygin.org/jumblie-tr`;
 
 	updateStreakAndFastestTimes(
 		convertTimeToMilliseconds(finalTime),
@@ -339,7 +339,7 @@ function shareLink() {
 			.share({
 				title: "Jumblie Türkçe",
 				text: scoreString,
-				url: "https://jumblie-tr.saygin.org",
+				url: "https://saygin.org/jumblie-tr",
 			})
 			.then(() => console.log("Successful share"))
 			.catch((error) => console.log("Error sharing", error));
