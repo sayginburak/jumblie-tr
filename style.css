@@ -176,6 +176,13 @@ header h1 {
     width: 310px;
 }
 
+@media (max-width: 767px) {
+    .brand {
+        font-size: 22px;
+        width: 165px;
+    }
+}
+
 .brand::after {
 	position: absolute;
 	top: 0;
