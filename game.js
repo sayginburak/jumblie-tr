@@ -18,7 +18,7 @@ let selectedButtons = [];
 let guessedWords = 0;
 let wrongGuesses = 0;
 
-let scoreString = `Jumblie #${puzzleNumber}\n`;
+let scoreString = `Jumblie Türkçe #${puzzleNumber}\n`;
 
 const letterMap = {};
 
