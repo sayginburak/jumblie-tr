@@ -1,15 +1,19 @@
 let wordList = [
 	{
-		theme: "tiyatro",
-		words: ["sahne", "perde", "replik", "yönetmen"],
-	},
-	{
 		theme: "fizik",
 		words: ["atom", "dalga", "enerji","parçacık"],
 	},
 	{
+		theme: "adalet",
+		words: ["ceza", "savcı", "avukat", "müşteki"],
+	},
+	{
 		theme: "dans",
 		words: ["vals", "ritim", "kostüm", "flamenko"],
+	},
+	{
+		theme: "tiyatro",
+		words: ["sahne", "perde", "replik", "yönetmen"],
 	},
 	{
 		theme: "moda",
@@ -38,10 +42,6 @@ let wordList = [
 	{
 		theme: "alışveriş",
 		words: ["kasa", "mağaza", "fatura", "indirim"],
-	},
-	{
-		theme: "adalet",
-		words: ["ceza", "savcı", "avukat", "müşteki"],
 	},
 	{
 		theme: "uzay",
