@@ -173,14 +173,6 @@ header h1 {
 
 .brand {
 	position: relative;
-    width: 310px;
-}
-
-@media (max-width: 767px) {
-    .brand {
-        font-size: 22px;
-        width: 165px;
-    }
 }
 
 .brand::after {
@@ -223,9 +215,24 @@ header div {
 	text-align: center;
 }
 
-header .header-chunk {
-	width: 160px;
+header .brand {
+	font-size: 34px;
 }
+header .header-chunk {
+	width: 255px;
+}
+
+@media (max-width: 767px) {
+	header .brand {
+		font-size: 20px;
+	}
+
+	header .header-chunk {
+		width: 153px;
+	}
+}
+
+
 
 header .header-chunk.end {
 	display: flex;
