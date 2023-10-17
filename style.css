@@ -222,7 +222,7 @@ header .header-chunk {
 	width: 255px;
 }
 
-@media (max-width: 767px) {
+@media screen and (max-width: 767px) {
 	header .brand {
 		font-size: 20px;
 	}
@@ -231,8 +231,6 @@ header .header-chunk {
 		width: 153px;
 	}
 }
-
-
 
 header .header-chunk.end {
 	display: flex;
