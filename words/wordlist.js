@@ -12,6 +12,10 @@ let wordList = [
 		words: ["vals", "ritim", "kostüm", "flamenko"],
 	},
 	{
+		theme: "duygular",
+		words: ["öfke", "hüzün", "minnet", "heyecan"],
+	},
+	{
 		theme: "tiyatro",
 		words: ["sahne", "perde", "replik", "yönetmen"],
 	},
@@ -50,10 +54,6 @@ let wordList = [
 	{
 		theme: "televizyon",
 		words: ["dizi", "yayın", "kumanda", "stüdyo"],
-	},
-	{
-		theme: "duygular",
-		words: ["öfke", "hüzün", "minnet", "heyecan"],
 	},
 	{
 		theme: "seyahat",
