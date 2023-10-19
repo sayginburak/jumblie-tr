@@ -16,6 +16,10 @@ let wordList = [
 		words: ["öfke", "hüzün", "minnet", "heyecan"],
 	},
 	{
+		theme: "havacılık",
+		words: ["kule", "apron", "kokpit", "türbülans"],
+	},
+	{
 		theme: "tiyatro",
 		words: ["sahne", "perde", "replik", "yönetmen"],
 	},
@@ -34,10 +38,6 @@ let wordList = [
 	{
 		theme: "internet",
 		words: ["site", "email", "sunucu", "tarayıcı"],
-	},
-	{
-		theme: "havacılık",
-		words: ["kule", "pilot", "kabin", "türbülans"],
 	},
 	{
 		theme: "bankacılık",
