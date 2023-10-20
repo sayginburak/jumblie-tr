@@ -21,7 +21,7 @@ let wordList = [
 	},
 	{
 		theme: "tiyatro",
-		words: ["sahne", "perde", "replik", "yönetmen"],
+		words: ["perde", "kulis", "replik", "dramaturg"],
 	},
 	{
 		theme: "moda",
@@ -52,8 +52,8 @@ let wordList = [
 		words: ["uydu", "yıldız", "yörünge", "galaksi"],
 	},
 	{
-		theme: "televizyon",
-		words: ["dizi", "yayın", "kumanda", "stüdyo"],
+		theme: "cumhuriyet🇹🇷",
+		words: ["halk", "anayasa", "inkılap", "egemenlik"],
 	},
 	{
 		theme: "seyahat",
