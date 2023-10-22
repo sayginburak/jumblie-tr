@@ -28,6 +28,10 @@ let wordList = [
 		words: ["stil", "trend", "defile", "aksesuar"],
 	},
 	{
+		theme: "bankacılık",
+		words: ["faiz", "kredi", "mevduat", "transfer"],
+	},
+	{
 		theme: "sinema",
 		words: ["kurgu", "bilet", "efekt", "fragman"],
 	},
@@ -38,10 +42,6 @@ let wordList = [
 	{
 		theme: "internet",
 		words: ["site", "email", "sunucu", "tarayıcı"],
-	},
-	{
-		theme: "bankacılık",
-		words: ["faiz", "kredi", "mevduat", "transfer"],
 	},
 	{
 		theme: "alışveriş",
