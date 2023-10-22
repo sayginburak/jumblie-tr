@@ -41,7 +41,7 @@ let wordList = [
 	},
 	{
 		theme: "bankacılık",
-		words: ["faiz", "borç", "mevduat", "transfer"],
+		words: ["faiz", "kredi", "mevduat", "transfer"],
 	},
 	{
 		theme: "alışveriş",
