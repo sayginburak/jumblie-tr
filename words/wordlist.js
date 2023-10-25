@@ -40,12 +40,12 @@ let wordList = [
 		words: ["kale", "ofsayt", "forvet", "antrenör"],
 	},
 	{
-		theme: "internet",
-		words: ["site", "email", "sunucu", "tarayıcı"],
-	},
-	{
 		theme: "alışveriş",
 		words: ["kasa", "mağaza", "fatura", "indirim"],
+	},
+	{
+		theme: "internet",
+		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
 	{
 		theme: "uzay",
