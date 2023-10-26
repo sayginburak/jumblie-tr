@@ -52,12 +52,12 @@ let wordList = [
 		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
 	{
-		theme: "uzay",
-		words: ["uydu", "yıldız", "yörünge", "galaksi"],
-	},
-	{
 		theme: "cumhuriyet🇹🇷",
 		words: ["halk", "anayasa", "devrim", "egemenlik"],
+	},
+	{
+		theme: "uzay",
+		words: ["uydu", "yıldız", "yörünge", "galaksi"],
 	},
 	{
 		theme: "seyahat",
