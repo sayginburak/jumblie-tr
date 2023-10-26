@@ -44,6 +44,10 @@ let wordList = [
 		words: ["kasa", "mağaza", "fatura", "indirim"],
 	},
 	{
+		theme: "kebaplar",
+		words: ["beyti", "tandır", "büryan", "iskender"],
+	},
+	{
 		theme: "internet",
 		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
@@ -53,7 +57,7 @@ let wordList = [
 	},
 	{
 		theme: "cumhuriyet🇹🇷",
-		words: ["halk", "anayasa", "inkılap", "egemenlik"],
+		words: ["halk", "anayasa", "devrim", "egemenlik"],
 	},
 	{
 		theme: "seyahat",
@@ -82,10 +86,6 @@ let wordList = [
 	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
-	},
-	{
-		theme: "kebaplar",
-		words: ["beyti", "tandır", "büryan", "iskender"],
 	},
 	{
 		theme: "deniz",
