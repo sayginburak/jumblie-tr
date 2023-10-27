@@ -48,8 +48,8 @@ let wordList = [
 		words: ["beyti", "tandır", "büryan", "iskender"],
 	},
 	{
-		theme: "internet",
-		words: ["site", "email", "sunucu", "tarayıcı"],
+		theme: "seyahat",
+		words: ["rota", "rehber", "turist", "pasaport"],
 	},
 	{
 		theme: "cumhuriyet🇹🇷",
@@ -60,8 +60,8 @@ let wordList = [
 		words: ["uydu", "yıldız", "yörünge", "galaksi"],
 	},
 	{
-		theme: "seyahat",
-		words: ["rota", "rehber", "turist", "pasaport"],
+		theme: "internet",
+		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
 	{
 		theme: "coğrafya",
