@@ -53,7 +53,7 @@ let wordList = [
 	},
 	{
 		theme: "cumhuriyet🇹🇷",
-		words: ["halk", "anayasa", "devrim", "egemenlik"],
+		words: ["halk", "devrim", "anayasa", "egemenlik"],
 	},
 	{
 		theme: "uzay",
