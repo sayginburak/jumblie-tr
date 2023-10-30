@@ -60,6 +60,10 @@ let wordList = [
 		words: ["uydu", "yıldız", "yörünge", "galaksi"],
 	},
 	{
+		theme: "tıp",
+		words: ["ilaç","tedavi", "anestezi", "ameliyat"]
+	},
+	{
 		theme: "internet",
 		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
@@ -98,9 +102,5 @@ let wordList = [
 	{
 		theme: "matematik",
 		words: ["sayı","matris", "denklem","değişken" ],
-	},
-	{
-		theme: "tıp",
-		words: ["ilaç","tedavi", "anestezi", "ameliyat"]
 	}
 ]
