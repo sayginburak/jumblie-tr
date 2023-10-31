@@ -64,6 +64,10 @@ let wordList = [
 		words: ["ilaç","tedavi", "anestezi", "ameliyat"]
 	},
 	{
+		theme: "finans",
+		words: ["döviz", "borsa", "yatırım", "portföy"],
+	},
+	{
 		theme: "internet",
 		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
@@ -78,10 +82,6 @@ let wordList = [
 	{
 		theme: "fotoğrafçılık",
 		words: ["odak", "tripod", "portre", "objektif"],
-	},
-	{
-		theme: "finans",
-		words: ["döviz", "borsa", "yatırım", "portföy"],
 	},
 	{
 		theme: "edebiyat",
