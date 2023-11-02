@@ -72,6 +72,10 @@ let wordList = [
 		words: ["sayı","matris", "denklem","değişken" ],
 	},
 	{
+		theme: "siyaset",
+		words: ["parti", "seçim", "muhalif", "hükümet"],
+	},
+	{
 		theme: "internet",
 		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
@@ -98,9 +102,5 @@ let wordList = [
 	{
 		theme: "deniz",
 		words: ["gemi", "dalgıç", "yengeç", "denizaltı"],
-	},
-	{
-		theme: "siyaset",
-		words: ["parti", "seçim", "muhalif", "hükümet"],
 	}
 ]
