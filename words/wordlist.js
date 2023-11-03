@@ -76,6 +76,10 @@ let wordList = [
 		words: ["parti", "seçim", "muhalif", "hükümet"],
 	},
 	{
+		theme: "deniz",
+		words: ["gemi", "dalgıç", "yengeç", "denizaltı"],
+	},
+	{
 		theme: "internet",
 		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
@@ -98,9 +102,5 @@ let wordList = [
 	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
-	},
-	{
-		theme: "deniz",
-		words: ["gemi", "dalgıç", "yengeç", "denizaltı"],
 	}
 ]
