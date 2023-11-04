@@ -80,6 +80,10 @@ let wordList = [
 		words: ["gemi", "dalgıç", "yengeç", "denizaltı"],
 	},
 	{
+		theme: "edebiyat",
+		words: ["öykü", "kurgu", "metafor", "karakter"],
+	},
+	{
 		theme: "internet",
 		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
@@ -94,10 +98,6 @@ let wordList = [
 	{
 		theme: "fotoğrafçılık",
 		words: ["odak", "tripod", "portre", "objektif"],
-	},
-	{
-		theme: "edebiyat",
-		words: ["öykü", "kurgu", "metafor", "karakter"],
 	},
 	{
 		theme: "karadeniz",
