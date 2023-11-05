@@ -84,6 +84,10 @@ let wordList = [
 		words: ["öykü", "kurgu", "metafor", "karakter"],
 	},
 	{
+		theme: "fotoğrafçılık",
+		words: ["odak", "tripod", "portre", "objektif"],
+	},
+	{
 		theme: "internet",
 		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
@@ -94,10 +98,6 @@ let wordList = [
 	{
 		theme: "din",
 		words: ["mabet", "inanç", "ritüel", "peygamber"],
-	},
-	{
-		theme: "fotoğrafçılık",
-		words: ["odak", "tripod", "portre", "objektif"],
 	},
 	{
 		theme: "karadeniz",
