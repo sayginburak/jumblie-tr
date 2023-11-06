@@ -88,12 +88,12 @@ let wordList = [
 		words: ["odak", "tripod", "portre", "objektif"],
 	},
 	{
-		theme: "internet",
-		words: ["site", "email", "sunucu", "tarayıcı"],
-	},
-	{
 		theme: "coğrafya",
 		words: ["kıta", "nehir", "alüvyon", "yarımada"],
+	},
+	{
+		theme: "internet",
+		words: ["site", "email", "sunucu", "tarayıcı"],
 	},
 	{
 		theme: "din",
