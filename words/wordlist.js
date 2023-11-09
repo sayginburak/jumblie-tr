@@ -100,6 +100,10 @@ let wordList = [
 		words: ["mabet", "inanç", "ritüel", "peygamber"],
 	},
 	{
+		theme: "Atatürk ♾️",
+		words: ["gazi", "nutuk", "selanik", "anıtkabir"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
