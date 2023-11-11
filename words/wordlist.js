@@ -108,6 +108,10 @@ let wordList = [
 		words: ["pena", "beste", "melodi", "orkestra"],
 	},
 	{
+		theme: "sosyal medya",
+		words: ["takip", "beğeni", "hikaye", "etkileşim"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
