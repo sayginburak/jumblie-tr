@@ -112,6 +112,10 @@ let wordList = [
 		words: ["takip", "beğeni", "hikaye", "etkileşim"],
 	},
 	{
+		theme: "meteoroloji",
+		words: ["dolu", "lodos", "basınç", "keşişleme"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
