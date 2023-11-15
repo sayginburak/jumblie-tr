@@ -120,12 +120,8 @@ let wordList = [
 		words: ["efes", "fresk", "mozaik", "arkeoloji"],
 	},
 	{
-		theme: "gastronomi",
-		words: ["gurme", "marine", "alakart", "kornişon"],
-	},
-	{
 		theme: "şehirlerimiz",
-		words: ["çorum","elazığ","tekirdağ","gümüşhane"],
+		words: ["mersin","artvin","bayburt","tekirdağ"],
 	},
 	{
 		theme: "karadeniz",
