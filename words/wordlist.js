@@ -124,6 +124,10 @@ let wordList = [
 		words: ["gurme", "marine", "alakart", "kornişon"],
 	},
 	{
+		theme: "şehirlerimiz",
+		words: ["çorum","elazığ","tekirdağ","gümüşhane"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
