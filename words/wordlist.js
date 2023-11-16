@@ -128,6 +128,10 @@ let wordList = [
 		words: ["mersin","artvin","bayburt","tekirdağ"],
 	},
 	{
+		theme: "avrupa başkentleri",
+		words: ["bern","dublin","kopenhag","budapeşte"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
