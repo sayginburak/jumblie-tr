@@ -132,6 +132,10 @@ let wordList = [
 		words: ["bern","dublin","kopenhag","budapeşte"],
 	},
 	{
+		theme: "bulaşıcı hastalıklar",
+		words: ["uyuz","ebola","şarbon","tetanoz"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
