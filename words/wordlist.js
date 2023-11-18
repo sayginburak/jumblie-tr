@@ -136,6 +136,10 @@ let wordList = [
 		words: ["uyuz","ebola","şarbon","tetanoz"],
 	},
 	{
+		theme: "olimpiyat sporları",
+		words: ["golf","güreş","hentbol","badminton"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
