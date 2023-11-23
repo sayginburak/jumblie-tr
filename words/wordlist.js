@@ -156,6 +156,10 @@ let wordList = [
 		words: ["yayın","çipura","minekop","istavrit"],
 	},
 	{
+		theme: "köy",
+		words: ["ahır","kümes","muhtar","traktör"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
