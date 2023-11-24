@@ -160,6 +160,10 @@ let wordList = [
 		words: ["ahır","kümes","muhtar","traktör"],
 	},
 	{
+		theme: "mutfak",
+		words: ["rende","oklava","blender","spatula"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
