@@ -176,6 +176,10 @@ let wordList = [
 		words: ["avlu","sütun","gotik","payanda"],
 	},
 	{
+		theme: "meslekler",
+		words: ["aktar","analist","mütercim","diyetisyen"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
