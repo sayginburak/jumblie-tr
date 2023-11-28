@@ -177,7 +177,7 @@ let wordList = [
 	},
 	{
 		theme: "meslekler",
-		words: ["aktar","analist","mütercim","diyetisyen"],
+		words: ["aktar","analist","öğretmen","diyetisyen"],
 	},
 	{
 		theme: "karadeniz",
