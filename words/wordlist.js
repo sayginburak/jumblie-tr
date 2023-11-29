@@ -180,6 +180,10 @@ let wordList = [
 		words: ["aktar","analist","öğretmen","diyetisyen"],
 	},
 	{
+		theme: "hırdavat",
+		words: ["çivi","balyoz","testere","köşebent"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
