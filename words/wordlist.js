@@ -188,6 +188,10 @@ let wordList = [
 		words: ["akım","voltaj","fatura","mühendis"],
 	},
 	{
+		theme: "psikoloji",
+		words: ["algı","bilinç","davranış","katarsis"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
