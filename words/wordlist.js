@@ -196,6 +196,10 @@ let wordList = [
 		words: ["rota","yelken","kabotaj","şamandıra"],
 	},
 	{
+		theme: "kimya",
+		words: ["asit","füzyon","molekül","reaksiyon"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
