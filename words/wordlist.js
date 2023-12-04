@@ -200,6 +200,10 @@ let wordList = [
 		words: ["asit","füzyon","molekül","reaksiyon"],
 	},
 	{
+		theme: "güney amerika",
+		words: ["peru","amazon","karnaval","arjantin"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
