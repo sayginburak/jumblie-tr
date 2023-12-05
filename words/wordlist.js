@@ -204,6 +204,10 @@ let wordList = [
 		words: ["peru","amazon","karnaval","arjantin"],
 	},
 	{
+		theme: "japonya",
+		words: ["suşi","geyşa","samuray","hiroşima"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
