@@ -208,6 +208,10 @@ let wordList = [
 		words: ["suşi","geyşa","samuray","hiroşima"],
 	},
 	{
+		theme: "istanbul semtleri",
+		words: ["vefa","balat","kanlıca","nişantaşı"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
