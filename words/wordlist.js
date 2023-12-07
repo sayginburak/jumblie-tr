@@ -212,6 +212,10 @@ let wordList = [
 		words: ["vefa","balat","kanlıca","nişantaşı"],
 	},
 	{
+		theme: "meyve",
+		words: ["erik","mango","greyfurt","böğürtlen"],
+	},
+	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	}
