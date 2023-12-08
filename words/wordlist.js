@@ -215,6 +215,7 @@ let wordList = [
 		theme: "meyve",
 		words: ["erik","mango","greyfurt","böğürtlen"],
 	},
+	{theme: "halk oyunları",words:["teke","horon","kafkas","karşılama"]},
 	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
