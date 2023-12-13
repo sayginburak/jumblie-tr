@@ -215,7 +215,10 @@ let wordList = [
 		theme: "meyve",
 		words: ["erik","mango","greyfurt","böğürtlen"],
 	},
-	{theme: "halk oyunları",words:["teke","horon","kafkas","karşılama"]},
+	{
+		theme: "halk oyunları",
+		words:["teke","horon","kafkas","karşılama"]
+	},
 	{
 		theme: "karadeniz",
 		words: ["uşak", "tulum", "yayla", "trabzon"],
@@ -231,5 +234,9 @@ let wordList = [
 	{
 		theme: "içecek",
 		words: ["şıra", "salep", "limonata", "hardaliye"],
+	},
+	{
+		theme: "protein",
+		words: ["soya", "balık", "bezelye", "mercimek"],
 	}
 ]
