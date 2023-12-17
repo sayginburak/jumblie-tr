@@ -250,5 +250,9 @@ let wordList = [
 	{
 		theme: "güvenlik",
 		words: ["kasa", "kilit", "koruma", "jandarma"],
+	},
+	{
+		theme: "ekonomi",
+		words: ["talep", "ithalat", "kambiyo", "likidite"],
 	}
 ]
