@@ -254,5 +254,9 @@ let wordList = [
 	{
 		theme: "ekonomi",
 		words: ["talep", "ithalat", "kambiyo", "likidite"],
+	},
+	{
+		theme: "akrabalar",
+		words: ["dünür", "baldız", "enişte", "büyükbaba"],
 	}
 ]
