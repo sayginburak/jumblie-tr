@@ -258,5 +258,9 @@ let wordList = [
 	{
 		theme: "akrabalar",
 		words: ["dünür", "baldız", "enişte", "büyükbaba"],
+	},
+	{
+		theme: "asya ülkeleri",
+		words: ["singapur", "kamboçya", "maldivler", "gürcistan"],
 	}
 ]
