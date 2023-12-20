@@ -262,5 +262,9 @@ let wordList = [
 	{
 		theme: "asya ülkeleri",
 		words: ["singapur", "kamboçya", "maldivler", "gürcistan"],
+	},
+	{
+		theme: "tekstil",
+		words: ["astar", "likra", "gabardin", "polyester"],
 	}
 ]
