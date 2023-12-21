@@ -266,5 +266,10 @@ let wordList = [
 	{
 		theme: "tekstil",
 		words: ["astar", "likra", "gabardin", "polyester"],
-	}
+	},
+	{
+		theme: "otomotiv",
+		words: ["turbo", "vites", "pedal", "enjektör"],
+	},
+
 ]
