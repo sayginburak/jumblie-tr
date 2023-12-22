@@ -271,5 +271,9 @@ let wordList = [
 		theme: "otomotiv",
 		words: ["turbo", "vites", "pedal", "enjektör"],
 	},
+	{
+		theme: "alkollü",
+		words: ["votka", "likör", "brendi", "şampanya"],
+	}
 
 ]
