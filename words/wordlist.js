@@ -274,6 +274,10 @@ let wordList = [
 	{
 		theme: "alkollü",
 		words: ["votka", "likör", "brendi", "şampanya"],
+	},
+	{
+		theme: "osmanlı",
+		words: ["fatih", "kanuni", "sadrazam", "devşirme"],
 	}
 
 ]
