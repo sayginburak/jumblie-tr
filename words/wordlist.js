@@ -294,5 +294,9 @@ let wordList = [
 	{
 		theme: "meyve",
 		words: ["elma","karpuz","ananas","portakal"],
+	},
+	{
+		theme: "astronomi",
+		words: ["mars","meteor","teleskop","samanyolu"],
 	}
 ]
