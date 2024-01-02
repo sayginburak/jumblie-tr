@@ -314,5 +314,9 @@ let wordList = [
 	{
 		theme: "tiyatro",
 		words: ["skeç","dekor","tuluat","mizansen"],
+	},
+	{
+		theme: "moda",
+		words: ["retro", "kombin", "kaşmir","podyum"],
 	}
 ]
