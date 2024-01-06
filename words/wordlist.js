@@ -328,7 +328,7 @@ let wordList = [
 		words: ["çapa", "fidan", "peyzaj","kompost"],
 	},
 	{
-		theme: "sebze",
-		words: ["bamya", "pırasa", "enginar","kuşkonmaz"],
+		theme: "eski uygarlıklar",
+		words: ["maya", "aztek", "fenike","hattuşa"],
 	}
 ]
