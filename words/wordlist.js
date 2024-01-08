@@ -338,5 +338,9 @@ let wordList = [
 	{
 		theme: "inşaat",
 		words: ["kolon", "kiriş", "şantiye","izolasyon"],
+	},
+	{
+		theme: "elektronik",
+		words: ["devre", "sensör", "batarya","regülatör"],
 	}
 ]
