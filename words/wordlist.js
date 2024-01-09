@@ -342,5 +342,9 @@ let wordList = [
 	{
 		theme: "elektronik",
 		words: ["devre", "sensör", "batarya","regülatör"],
+	},
+	{
+		theme: "sinema",
+		words: ["efekt", "montaj", "aksiyon","yönetmen"],
 	}
 ]
