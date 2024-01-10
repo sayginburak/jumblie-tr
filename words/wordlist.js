@@ -346,5 +346,9 @@ let wordList = [
 	{
 		theme: "sinema",
 		words: ["efekt", "montaj", "aksiyon","yönetmen"],
+	},
+	{
+		theme: "dans",
+		words: ["bale", "tango", "rumba","sirtaki"],
 	}
 ]
