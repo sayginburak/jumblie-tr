@@ -402,5 +402,9 @@ let wordList = [
 	{
 		theme: "çocuk",
 		words: ["park", "karne", "kumbara", "oyuncak"],
+	},
+	{
+		theme: "geometri",
+		words: ["küre", "yamuk", "yarıçap", "hipotenüs"],
 	}
 ]
