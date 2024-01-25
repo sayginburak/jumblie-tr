@@ -404,7 +404,7 @@ let wordList = [
 		words: ["park", "karne", "kumbara", "oyuncak"],
 	},
 	{
-		theme: "geometri",
-		words: ["küre", "yamuk", "yarıçap", "hipotenüs"],
+		theme: "kahvehane",
+		words: ["okey", "yancı", "batak", "oralet"],
 	}
 ]
