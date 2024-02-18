@@ -500,8 +500,8 @@ let wordList = [
 		words: ["jest", "mesaj", "telefon", "pazarlama"]
 	},
 	{
-		theme: "biyoloji",
-		words: ["cins", "hücre", "anatomi", "mutasyon"]
+		theme: "gastronomi",
+		words: ["meze","tadım", "sunum", "baharat"]
 	}
 	
 	
