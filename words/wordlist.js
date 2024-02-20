@@ -510,6 +510,10 @@ let wordList = [
 	{
 		theme: "eğitim",
 		words: ["burs","seminer", "pedagoji", "müfredat"]
+	},
+	{
+		theme: "dağ",
+		words: ["zirve","alpler", "everest", "alpinizm"]
 	}
 	
 	
