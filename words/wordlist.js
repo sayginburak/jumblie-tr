@@ -514,6 +514,10 @@ let wordList = [
 	{
 		theme: "dağ",
 		words: ["zirve","alpler", "everest", "alpinizm"]
+	},
+	{
+		theme: "borsa",
+		words: ["risk","kağıt", "menkul", "portföy"]
 	}
 	
 	
