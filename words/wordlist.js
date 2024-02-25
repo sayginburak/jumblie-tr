@@ -524,7 +524,11 @@ let wordList = [
 		words: ["tuna","hisar", "selanik", "balkanlar"]
 	},
 	{theme: "balık",words:["hamsi","somon","mezgit","palamut"]},
-	{theme: "meyve",words:["kivi","hurma","karpuz","ahududu"]}
+	{theme: "meyve",words:["kivi","hurma","karpuz","ahududu"]},
+	{
+		theme: "türk müziği",
+		words: ["semai","makam", "taksim", "bağlama"]
+	}
 	
 	
 	
