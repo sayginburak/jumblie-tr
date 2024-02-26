@@ -528,7 +528,8 @@ let wordList = [
 	{
 		theme: "türk müziği",
 		words: ["semai","makam", "taksim", "bağlama"]
-	}
+	},
+		{theme: "kuruyemiş",words:["kaju","çerez","leblebi","çekirdek"]},
 	
 	
 	
