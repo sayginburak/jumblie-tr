@@ -532,7 +532,9 @@ let wordList = [
 		{theme: "kuruyemiş",words:["kaju","çerez","leblebi","çekirdek"]},
 		{theme: "ağaç",words:["meşe","ladin","gürgen","palmiye"]},
 		{theme: "tarım",words:["hasat","buğday","ilaçlama","seracılık"]},
-	{theme: "müzik",words:["flüt","çello","konser","enstrüman"]}
+	{theme: "müzik",words:["flüt","çello","konser","enstrüman"]},
+	{theme: "edebiyat",words:["şiir","hiciv","trajedi","biyografi"]}
+
 	
 	
 	
