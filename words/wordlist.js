@@ -538,7 +538,8 @@ let wordList = [
 	{theme: "tarih",words:["roma","inkılap","kronoloji","medeniyet"]},
 	{theme: "inşaat",words:["kaba","beton","altyapı","çimento"]},
 	{theme: "renk",words:["haki","fildişi","turkuaz","eflatun"]},
-	{theme: "kuş",words:["saka","turna","atmaca","kırlangıç"]}
+	{theme: "kuş",words:["saka","turna","atmaca","kırlangıç"]},
+	{theme: "dil",words:["lehçe","svahili","bulgarca","vietnamca"]}
 	
 	
 	
