@@ -540,7 +540,8 @@ let wordList = [
 	{theme: "renk",words:["haki","fildişi","turkuaz","eflatun"]},
 	{theme: "kuş",words:["saka","turna","atmaca","kırlangıç"]},
 	{theme: "dil",words:["lehçe","svahili","bulgarca","vietnamca"]},
-	{theme: "hayvan",words:["yılan","atmaca","ahtapot","bukalemun"]}
+	{theme: "hayvan",words:["yılan","atmaca","ahtapot","bukalemun"]},
+		{theme: "botanik",words:["sera","tohum","yaprak","klorofil"]}
 	
 	
 	
