@@ -544,7 +544,8 @@ let wordList = [
 	{theme: "botanik",words:["sera","tohum","yaprak","klorofil"]},
 	{theme: "gelenek",words:["töre","adet", "kültür","görenek"]},
 	{theme: "sulu",words:["boya","yemek", "sepken", "çözelti"]},
-	{theme: "ortadoğu",words:["iran","basra", "süveyş", "piramit"]}
+	{theme: "ortadoğu",words:["iran","basra", "süveyş", "piramit"]},
+	{theme: "tiyatro",words:["gişe","sahne", "müzikal", "festival"]}
 	
 	
 	
