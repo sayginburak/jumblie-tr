@@ -549,7 +549,8 @@ let wordList = [
 	{theme: "hormon",words:["insülin","dopamin", "endorfin", "adrenalin"]},
 	{theme: "pandemi",words:["vaka","maske", "temas", "izolasyon"]},
 	{theme: "akrabalar",words:["elti", "torun", "kuzen", "kayınço"]},
-	{theme: "fizik",words:["ivme", "kütle", "frekans", "görelilik"]}
+	{theme: "fizik",words:["ivme", "kütle", "frekans", "görelilik"]},
+	{theme: "çorba",words:["paça", "balık", "şehriye", "lebeniye"]}
 	
 	
 	
