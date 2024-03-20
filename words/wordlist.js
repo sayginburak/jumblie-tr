@@ -551,7 +551,8 @@ let wordList = [
 	{theme: "akrabalar",words:["elti", "torun", "kuzen", "kayınço"]},
 	{theme: "fizik",words:["ivme", "kütle", "frekans", "görelilik"]},
 	{theme: "çorba",words:["paça", "balık", "şehriye", "lebeniye"]},
-	{theme: "yeşillik",words:["tere", "pazı", "kişniş", "fesleğen"]}
+	{theme: "yeşillik",words:["tere", "pazı", "kişniş", "fesleğen"]},
+	{theme: "metal",words:["cıva", "kurşun", "lityum", "magnezyum"]}
 	
 	
 	
