@@ -553,7 +553,8 @@ let wordList = [
 	{theme: "çorba",words:["paça", "balık", "şehriye", "lebeniye"]},
 	{theme: "yeşillik",words:["tere", "pazı", "kişniş", "fesleğen"]},
 	{theme: "metal",words:["cıva", "kurşun", "lityum", "magnezyum"]},
-	{theme: "futbol",words:["asist", "verkaç", "penaltı", "bonservis"]}
+	{theme: "futbol",words:["asist", "verkaç", "penaltı", "bonservis"]},
+	{theme: "basketbol",words:["smaç", "pota", "ribaund", "turnike"]},
 	
 	
 	
