@@ -555,7 +555,8 @@ let wordList = [
 	{theme: "metal",words:["cıva", "kurşun", "lityum", "magnezyum"]},
 	{theme: "futbol",words:["asist", "verkaç", "penaltı", "bonservis"]},
 	{theme: "basketbol",words:["smaç", "pota", "ribaund", "turnike"]},
-	{theme: "doğa",words:["vadi", "orman", "şelale", "yürüyüş"]}
+	{theme: "doğa",words:["vadi", "orman", "şelale", "yürüyüş"]},
+	{theme: "ilkbahar",words:["filiz", "nevruz", "kelebek", "tomurcuk"]}
 	
 	
 	
