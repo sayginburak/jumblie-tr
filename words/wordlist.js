@@ -559,7 +559,9 @@ let wordList = [
 	{theme: "ilkbahar",words:["filiz", "nevruz", "kelebek", "tomurcuk"]},
 	{theme: "sebze",words:["havuç", "bakla", "ıspanak", "karnabahar"]},
 	{theme: "kimya",words:["enzim", "izotop", "bileşik", "elektron"]},
-	{theme: "baharat",words:["köri", "safran", "kimyon", "biberiye"]}
+	{theme: "baharat",words:["köri", "safran", "kimyon", "biberiye"]},
+	{theme: "felsefe",words:["etik", "bilgi", "varoluş", "sokrates"]}
+	
 	
 	
 	
