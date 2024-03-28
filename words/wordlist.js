@@ -560,6 +560,10 @@ let wordList = [
 	{theme: "sebze",words:["havuç", "bakla", "ıspanak", "karnabahar"]},
 	{theme: "kimya",words:["enzim", "izotop", "bileşik", "elektron"]},
 	{theme: "baharat",words:["köri", "safran", "kimyon", "biberiye"]},
+	{
+		theme: "fizik",
+		words: ["atom", "dalga", "enerji","parçacık"],
+	},
 	{theme: "felsefe",words:["etik", "bilgi", "varoluş", "sokrates"]}
 	
 	
