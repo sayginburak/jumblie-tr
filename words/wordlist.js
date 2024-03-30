@@ -564,7 +564,8 @@ let wordList = [
 		theme: "fizik",
 		words: ["atom", "dalga", "enerji","parçacık"],
 	},
-	{theme: "felsefe",words:["etik", "bilgi", "varoluş", "sokrates"]}
+	{theme: "felsefe", words:["etik", "bilgi", "varoluş", "sokrates"]},
+	{theme: "güneydoğu", words:["fırat", "halay", "mardin", "hasankeyf"]}
 	
 	
 	
