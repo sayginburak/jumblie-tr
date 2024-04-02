@@ -567,7 +567,9 @@ let wordList = [
 	{theme: "felsefe", words:["etik", "bilgi", "varoluş", "sokrates"]},
 	{theme: "güneydoğu", words:["fırat", "halay", "mardin", "hasankeyf"]},
 	{theme: "seçim", words:["anket", "pusula", "mazbata", "kampanya"]},
-		{theme: "sanat", words:["opera", "galeri", "estetik", "edebiyat"]}
+	{theme: "sanat", words:["opera", "galeri", "estetik", "edebiyat"]},
+	{theme: "temizlik", words:["bahar", "hijyen", "paspas", "deterjan"]}
+	
 	
 	
 	
