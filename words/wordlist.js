@@ -570,7 +570,8 @@ let wordList = [
 	{theme: "sanat", words:["opera", "galeri", "estetik", "edebiyat"]},
 	{theme: "temizlik", words:["bahar", "hijyen", "paspas", "deterjan"]},
 	{theme: "hamur işi", words:["pişi", "mantı", "poğaça", "kruvasan"]},
-	{theme: "sokak lezzetleri", words:["simit", "midye", "kestane", "kokoreç"]}
+	{theme: "sokak lezzetleri", words:["simit", "midye", "kestane", "kokoreç"]},
+	{theme: "kitap", words:["özet", "sahaf", "çevirmen", "kütüphane"]}
 	
 	
 	
