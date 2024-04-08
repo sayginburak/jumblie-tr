@@ -573,7 +573,8 @@ let wordList = [
 	{theme: "sokak lezzetleri", words:["simit", "midye", "kestane", "kokoreç"]},
 	{theme: "kitap", words:["özet", "sahaf", "çevirmen", "kütüphane"]},
 	{theme: "tatlı", words:["lokum", "güllaç", "kadayıf", "kazandibi"]},
-	{theme: "dünya mutfağı", words:["suşi", "pizza", "falafel", "lazanya"]}
+	{theme: "dünya mutfağı", words:["suşi", "pizza", "falafel", "lazanya"]},
+	{theme: "osmanlı", words:["murat", "söğüt", "rumeli", "karlofça"]}
 	
 	
 	
