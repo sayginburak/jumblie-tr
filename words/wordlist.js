@@ -576,7 +576,8 @@ let wordList = [
 	{theme: "dünya mutfağı", words:["suşi", "pizza", "falafel", "lazanya"]},
 	{theme: "osmanlı", words:["murat", "söğüt", "rumeli", "karlofça"]},
 	{theme: "yapay", words:["zeka", "çiçek", "toprak", "seçilim"]},
-	{theme: "... etmek", words:["ikna", "devam", "teklif", "tavsiye"]}
+	{theme: "... etmek", words:["ikna", "devam", "teklif", "tavsiye"]},
+	{theme: "divan edebiyatı", words:["aruz", "beyit", "nesir", "kaside"]}
 	
 	
 	
