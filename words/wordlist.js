@@ -578,7 +578,8 @@ let wordList = [
 	{theme: "yapay", words:["zeka", "çiçek", "toprak", "seçilim"]},
 	{theme: "... etmek", words:["ikna", "devam", "teklif", "tavsiye"]},
 	{theme: "divan edebiyatı", words:["aruz", "beyit", "nesir", "kaside"]},
-	{theme: "coğrafya", words:["vadi", "delta", "yükselti", "okyanus"]}
+	{theme: "coğrafya", words:["vadi", "delta", "yükselti", "okyanus"]},
+	{theme: "... günü", words:["altın", "arife", "takvim", "kadınlar"]}
 	
 	
 	
