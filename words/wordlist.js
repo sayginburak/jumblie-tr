@@ -585,7 +585,8 @@ let wordList = [
 	{theme: "havacılık", words:["apron", "kokpit", "karakutu", "altimetre"]},
 	{theme: "okul", words:["kayıt", "öğrenci", "derslik", "mezuniyet"]},
 	{theme: "emlak", words:["tapu", "kontrat", "taşınmaz", "depozito"]},
-	{theme: "organ", words:["deri", "beyin", "pankreas", "karaciğer"]}
+	{theme: "organ", words:["deri", "beyin", "pankreas", "karaciğer"]},
+	{theme: "tekstil", words:["ipek", "kumaş", "terzi", "nakış"]}
 	
 	
 	
