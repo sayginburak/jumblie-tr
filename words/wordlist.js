@@ -600,7 +600,8 @@ let wordList = [
 		words: ["erik","mango","greyfurt","böğürtlen"],
 	},
 	{theme: "mimari", words:["proje", "peyzaj", "tasarım", "neoklasik"]},
-	{theme: "tıp", words:["hekim", "cerrahi", "muayene", "hipokrat"]}
+	{theme: "tıp", words:["hekim", "cerrahi", "muayene", "hipokrat"]},
+	{theme: "duygu", words:["güven", "hayret", "sevinç", "bıkkınlık"]}
 	
 	
 ]
