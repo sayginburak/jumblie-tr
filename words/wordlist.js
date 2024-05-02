@@ -603,7 +603,11 @@ let wordList = [
 	{theme: "tıp", words:["hekim", "cerrahi", "muayene", "hipokrat"]},
 	{theme: "duygu", words:["güven", "hayret", "sevinç", "bıkkınlık"]},
 	{theme: "istanbul", words:["fatih", "galata", "ayasofya", "yerebatan"]},
-	{theme: "ankara", words:["odtü", "çankaya", "hacettepe", "anıtkabir"]}
+	{theme: "ankara", words:["odtü", "çankaya", "hacettepe", "anıtkabir"]},
+	{
+		theme: "peynir",
+		words: ["çerkez","hellim","gravyer","parmesan"],
+	}
 	
 	
 ]
