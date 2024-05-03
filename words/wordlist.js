@@ -9,7 +9,7 @@ let wordList = [
 	},
 	{
 		theme: "dans",
-		words: ["vals", "ritim", "kostüm", "flamenkox"],
+		words: ["vals", "ritim", "kostüm", "flamenko"],
 	},
 	{
 		theme: "duygular",
@@ -607,6 +607,10 @@ let wordList = [
 	{
 		theme: "peynir",
 		words: ["çerkez","hellim","gravyer","parmesan"],
+	},
+	{
+		theme: "dans",
+		words: ["vals", "ritim", "kostüm", "flamenko"],
 	}
 	
 	
