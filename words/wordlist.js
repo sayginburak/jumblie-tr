@@ -611,7 +611,10 @@ let wordList = [
 	{
 		theme: "dans",
 		words: ["vals", "ritim", "kostüm", "flamenko"],
+	},
+	{
+		theme: "sinema",
+		words: ["kurgu", "bilet", "efekt", "fragman"]
 	}
-	
 	
 ]
