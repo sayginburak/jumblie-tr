@@ -627,6 +627,10 @@ let wordList = [
 	{
 		theme: "olimpiyat",
 		words: ["golf","güreş","hentbol","badminton"],
-	}
+	},
+	{
+		theme: "deniz",
+		words: ["gemi", "dalgıç", "yengeç", "denizaltı"],
+	},
 	
 ]
