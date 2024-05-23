@@ -687,6 +687,10 @@ let wordList = [
 	{
 		theme: "fotoğrafçılık",
 		words: ["odak", "tripod", "portre", "objektif"],
+	},
+	{
+		theme: "geometri",
+		words: ["küre", "yamuk", "yarıçap", "hipotenüs"],
 	}
 	
 ]
