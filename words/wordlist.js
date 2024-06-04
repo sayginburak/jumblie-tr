@@ -735,6 +735,10 @@ let wordList = [
 	{
 		theme: "tarih",
 		words: ["belge", "hanedan", "muharebe", "antlaşma"],
+	},
+	{
+		theme: "güvenlik",
+		words: ["kasa", "kilit", "koruma", "jandarma"],
 	}
 	
 
