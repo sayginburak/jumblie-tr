@@ -766,5 +766,9 @@ let wordList = [
 		theme: "istanbul semtleri",
 		words: ["vefa","balat","kanlıca","nişantaşı"],
 	},
-	{theme: "hamur işi", words:["pişi", "mantı", "poğaça", "kruvasan"]}
+	{theme: "hamur işi", words:["pişi", "mantı", "poğaça", "kruvasan"]},
+		{
+		theme: "mücevher",
+		words: ["küpe", "broş", "karat", "gerdanlık"]
+	}
 ]
