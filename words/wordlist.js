@@ -772,6 +772,10 @@ let wordList = [
 		words: ["küpe", "broş", "karat", "gerdanlık"]
 	},
 	{theme: "viral", words:["uçuk", "kuduz", "kızamık", "kabakulak"]},
-	{theme: "botanik",words:["sera","tohum","yaprak","klorofil"]}
+	{theme: "botanik",words:["sera","tohum","yaprak","klorofil"]},
+	{
+		theme: "bilgisayar",
+		words: ["fare", "dizüstü", "işlemci", "donanım"]
+	}
 	
 ]
