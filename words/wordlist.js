@@ -777,6 +777,10 @@ let wordList = [
 		theme: "bilgisayar",
 		words: ["fare", "dizüstü", "işlemci", "donanım"]
 	},
-	{theme: "gelenek",words:["töre","adet", "kültür","görenek"]}
+	{theme: "gelenek",words:["töre","adet", "kültür","görenek"]},
+		{
+		theme: "otomotiv",
+		words: ["turbo", "vites", "pedal", "enjektör"],
+	}
 	
 ]
