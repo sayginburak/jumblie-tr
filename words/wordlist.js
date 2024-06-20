@@ -781,6 +781,10 @@ let wordList = [
 		{
 		theme: "otomotiv",
 		words: ["turbo", "vites", "pedal", "enjektör"],
+	},
+		{
+		theme: "avrupa başkentleri",
+		words: ["bern","dublin","kopenhag","budapeşte"],
 	}
 	
 ]
