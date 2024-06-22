@@ -789,6 +789,10 @@ let wordList = [
 	{
 		theme: "internet",
 		words: ["site", "email", "sunucu", "tarayıcı"],
+	},
+	{
+		theme: "afrika ülkeleri",
+		words: ["mali","sudan","uganda","etiyopya"],
 	}
 	
 ]
