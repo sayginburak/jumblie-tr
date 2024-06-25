@@ -801,6 +801,10 @@ let wordList = [
 	{
 		theme: "japonya",
 		words: ["suşi","geyşa","samuray","hiroşima"],
+	},
+	{
+		theme: "taş",
+		words: ["akik", "zümrüt", "kehribar","ametist"],
 	}
 	
 ]
