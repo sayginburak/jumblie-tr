@@ -805,6 +805,10 @@ let wordList = [
 	{
 		theme: "taş",
 		words: ["akik", "zümrüt", "kehribar","ametist"],
+	},
+	{
+		theme: "meslekler",
+		words: ["aktar","analist","öğretmen","diyetisyen"],
 	}
 	
 ]
