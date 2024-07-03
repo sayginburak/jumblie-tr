@@ -826,6 +826,12 @@ let wordList = [
 		theme: "olimpiyat",
 		words: ["golf","güreş","hentbol","badminton"],
 	},
-	{theme: "felsefe", words:["etik", "bilgi", "varoluş", "sokrates"]}
+	{theme: "felsefe", words:["etik", "bilgi", "varoluş", "sokrates"]},
+	{
+		theme: "fizik",
+		words: ["atom", "dalga", "enerji","parçacık"],
+	},
+	{theme: "divan edebiyatı", words:["aruz", "beyit", "nesir", "kaside"]}
+	
 	
 ]
