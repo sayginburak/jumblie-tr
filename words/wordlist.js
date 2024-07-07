@@ -843,6 +843,10 @@ let wordList = [
 	{
 		theme: "din",
 		words: ["mabet", "inanç", "ritüel", "peygamber"],
+	},
+	{
+		theme: "denizcilik",
+		words: ["rota","yelken","kabotaj","şamandıra"],
 	}
 	
 	
