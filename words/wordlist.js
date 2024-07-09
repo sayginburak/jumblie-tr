@@ -851,6 +851,10 @@ let wordList = [
 	{
 		theme: "kimya",
 		words: ["asit","füzyon","molekül","reaksiyon"],
+	},
+	{
+		theme: "güney amerika",
+		words: ["peru","amazon","karnaval","arjantin"],
 	}
 	
 	
