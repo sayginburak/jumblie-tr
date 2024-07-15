@@ -863,7 +863,11 @@ let wordList = [
 	{theme: "sulu",words:["boya","yemek", "sepken", "çözelti"]},
 	{theme: "ortadoğu",words:["iran","basra", "süveyş", "piramit"]},
 	{theme: "hormon",words:["insülin","dopamin", "endorfin", "adrenalin"]},
-	{theme: "geniş ...",words:["aile","omuz","ekran", "zaman"]}
+	{theme: "geniş ...",words:["aile","omuz","ekran", "zaman"]},
+	{
+		theme: "hayvan",
+		words: ["panda", "yarasa", "kanguru","gergedan"],
+	}
 	
 	
 ]
