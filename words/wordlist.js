@@ -871,6 +871,10 @@ let wordList = [
 	{
 		theme: "büyük ...",
 		words: ["harf", "altın", "taarruz", "iskender"]
+	},
+	{
+		theme: "biyoloji",
+		words: ["cins", "hücre", "anatomi", "mutasyon"]
 	}
 	
 	
