@@ -879,6 +879,10 @@ let wordList = [
 	{
 		theme: "dağ",
 		words: ["zirve","alpler", "everest", "alpinizm"]
+	},
+	{
+		theme: "turizm",
+		words: ["müze","keşif","festival","güzergah"],
 	}
 	
 	
