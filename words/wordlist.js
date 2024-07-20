@@ -883,6 +883,10 @@ let wordList = [
 	{
 		theme: "turizm",
 		words: ["müze","keşif","festival","güzergah"],
+	},
+	{
+		theme: "psikoloji",
+		words: ["algı","bilinç","davranış","katarsis"],
 	}
 	
 	
