@@ -891,6 +891,10 @@ let wordList = [
 	{
 		theme: "havacılık",
 		words: ["kule", "apron", "kokpit", "türbülans"],
+	},
+	{
+		theme: "bankacılık",
+		words: ["faiz", "kredi", "mevduat", "transfer"],
 	}
 	
 	
