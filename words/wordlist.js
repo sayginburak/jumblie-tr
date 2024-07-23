@@ -895,6 +895,10 @@ let wordList = [
 	{
 		theme: "bankacılık",
 		words: ["faiz", "kredi", "mevduat", "transfer"],
+	},
+	{
+		theme: "sosyal medya",
+		words: ["takip", "beğeni", "hikaye", "etkileşim"],
 	}
 	
 	
