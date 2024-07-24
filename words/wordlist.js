@@ -899,6 +899,10 @@ let wordList = [
 	{
 		theme: "sosyal medya",
 		words: ["takip", "beğeni", "hikaye", "etkileşim"],
+	},
+	{
+		theme: "meteoroloji",
+		words: ["dolu", "lodos", "basınç", "keşişleme"],
 	}
 	
 	
