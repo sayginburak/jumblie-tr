@@ -919,7 +919,8 @@ let wordList = [
 	{
 		theme: "fitness",
 		words: ["yoga", "kardiyo", "pilates","egzersiz"],
-	}
+	},
+	{theme: "... etmek", words:["ikna", "devam", "teklif", "tavsiye"]}
 	
 	
 ]
