@@ -932,7 +932,8 @@ let wordList = [
 		theme: "ilişki",
 		words: ["yakın", "sosyal", "toksik", "evlilik"]
 	},
-	{theme: "seçim", words:["anket", "pusula", "mazbata", "kampanya"]}
+	{theme: "seçim", words:["anket", "pusula", "mazbata", "kampanya"]},
+	{theme: "otomatik", words:["kapı", "vites", "makine", "portakal"]}
 	
 	
 ]
