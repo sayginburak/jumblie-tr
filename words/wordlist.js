@@ -934,7 +934,8 @@ let wordList = [
 	},
 	{theme: "seçim", words:["anket", "pusula", "mazbata", "kampanya"]},
 	{theme: "otomatik", words:["kapı", "vites", "makine", "portakal"]},
-	{theme: "güneydoğu", words:["fırat", "halay", "mardin", "hasankeyf"]}
+	{theme: "güneydoğu", words:["fırat", "halay", "mardin", "hasankeyf"]},
+	{theme: "emlak", words:["tapu", "kontrat", "taşınmaz", "depozito"]}
 	
 	
 ]
