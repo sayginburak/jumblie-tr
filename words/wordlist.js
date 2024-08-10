@@ -943,6 +943,10 @@ let wordList = [
 	{
 		theme: "elektronik",
 		words: ["devre", "sensör", "batarya","regülatör"],
+	},
+	{
+		theme: "olimpiyat sporları",
+		words: ["boks", "tenis", "okçuluk","voleybol"],
 	}
 	
 	
