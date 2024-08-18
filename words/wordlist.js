@@ -969,6 +969,10 @@ let wordList = [
 	{
 		theme: "tiyatro",
 		words: ["perde", "kulis", "replik", "dramaturg"],
+	},
+	{
+		theme: "müzik",
+		words: ["pena", "beste", "melodi", "orkestra"],
 	}
 	
 	
