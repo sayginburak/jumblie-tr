@@ -981,6 +981,10 @@ let wordList = [
 	{
 		theme: "sebze",
 		words: ["pazı", "brokoli", "bezelye", "semizotu"],
+	},
+	{
+		theme: "meyve",
+		words: ["elma","karpuz","ananas","portakal"],
 	}
 	
 	
