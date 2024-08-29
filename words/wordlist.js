@@ -1013,6 +1013,10 @@ let wordList = [
 	{
 		theme: "italya",
 		words: ["pizza", "venedik", "ferrari", "floransa"],
+	},
+	{
+		theme: "uzay",
+		words: ["mars", "neptün", "bulutsu", "süpernova"],
 	}
 
 	
