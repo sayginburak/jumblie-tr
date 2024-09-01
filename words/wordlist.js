@@ -1019,7 +1019,11 @@ let wordList = [
 		words: ["mars", "neptün", "bulutsu", "süpernova"],
 	},
 	{theme: "kuruyemiş",words:["kaju","çerez","leblebi","çekirdek"]},
-	{theme: "ağaç",words:["meşe","ladin","gürgen","palmiye"]}
+	{theme: "ağaç",words:["meşe","ladin","gürgen","palmiye"]},
+		{
+		theme: "akrabalar",
+		words: ["dünür", "baldız", "enişte", "büyükbaba"],
+	}
 
 	
 	
