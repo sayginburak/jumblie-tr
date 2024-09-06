@@ -1039,5 +1039,9 @@ let wordList = [
 	{
 		theme: "duygular",
 		words: ["öfke", "hüzün", "minnet", "heyecan"],
+	},
+	{
+		theme: "siyaset",
+		words: ["parti", "seçim", "muhalif", "hükümet"],
 	}
 ]
