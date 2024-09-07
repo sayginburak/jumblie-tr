@@ -1043,5 +1043,9 @@ let wordList = [
 	{
 		theme: "siyaset",
 		words: ["parti", "seçim", "muhalif", "hükümet"],
+	},
+	{
+		theme: "rumeli",
+		words: ["tuna","hisar", "selanik", "balkanlar"]
 	}
 ]
