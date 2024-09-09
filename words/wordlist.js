@@ -1051,6 +1051,7 @@ let wordList = [
 	{
 		theme: "finans",
 		words: ["döviz", "borsa", "yatırım", "portföy"],
-	}
+	},
+	{theme: "tarih",words:["roma","inkılap","kronoloji","medeniyet"]}
 	
 ]
