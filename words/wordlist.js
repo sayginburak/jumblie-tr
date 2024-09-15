@@ -1066,6 +1066,10 @@ let wordList = [
 		words: ["albüm", "dinleti", "soprano", "akustik"],
 	},
 	{theme: "inşaat",words:["kaba","beton","altyapı","çimento"]},
-	{theme: "coğrafya", words:["vadi", "delta", "yükselti", "okyanus"]}
+	{theme: "coğrafya", words:["vadi", "delta", "yükselti", "okyanus"]},
+		{
+		theme: "sinema",
+		words: ["efekt", "montaj", "aksiyon","yönetmen"],
+	}
 	
 ]
