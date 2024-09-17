@@ -1071,6 +1071,7 @@ let wordList = [
 		theme: "sinema",
 		words: ["efekt", "montaj", "aksiyon","yönetmen"],
 	},
-	{theme: "tatlı", words:["lokum", "güllaç", "kadayıf", "kazandibi"]}
+	{theme: "tatlı", words:["lokum", "güllaç", "kadayıf", "kazandibi"]},
+	{theme: "metal",words:["cıva", "kurşun", "lityum", "magnezyum"]}
 	
 ]
