@@ -1073,6 +1073,10 @@ let wordList = [
 	},
 	{theme: "tatlı", words:["lokum", "güllaç", "kadayıf", "kazandibi"]},
 	{theme: "metal",words:["cıva", "kurşun", "lityum", "magnezyum"]},
-	{theme: "baharat",words:["köri", "safran", "kimyon", "biberiye"]}
+	{theme: "baharat",words:["köri", "safran", "kimyon", "biberiye"]},
+		{
+		theme: "ankara",
+		words: ["ulus", "tunalı", "elmadağ","keçiören"],
+	}
 	
 ]
