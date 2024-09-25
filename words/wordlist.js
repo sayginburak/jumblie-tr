@@ -1091,6 +1091,8 @@ let wordList = [
 		theme: "soğuk",
 		words: ["ayaz", "savaş", "espri", "baklava"]
 	},
-	{theme: "edebiyat",words:["şiir","hiciv","trajedi","biyografi"]}
+	{theme: "edebiyat",words:["şiir","hiciv","trajedi","biyografi"]},
+	{theme: "müzik",words:["flüt","çello","konser","enstrüman"]}
+	
 	
 ]
