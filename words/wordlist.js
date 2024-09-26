@@ -1092,7 +1092,8 @@ let wordList = [
 		words: ["ayaz", "savaş", "espri", "baklava"]
 	},
 	{theme: "edebiyat",words:["şiir","hiciv","trajedi","biyografi"]},
-	{theme: "müzik",words:["flüt","çello","konser","enstrüman"]}
+	{theme: "müzik",words:["flüt","çello","konser","enstrüman"]},
+	{theme: "kuş",words:["saka","turna","atmaca","kırlangıç"]}
 	
 	
 ]
