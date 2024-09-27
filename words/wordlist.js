@@ -1093,7 +1093,11 @@ let wordList = [
 	},
 	{theme: "edebiyat",words:["şiir","hiciv","trajedi","biyografi"]},
 	{theme: "müzik",words:["flüt","çello","konser","enstrüman"]},
-	{theme: "kuş",words:["saka","turna","atmaca","kırlangıç"]}
+	{theme: "kuş",words:["saka","turna","atmaca","kırlangıç"]},
+	{
+		theme: "matematik",
+		words: ["sayı","matris", "denklem","değişken" ],
+	}
 	
 	
 ]
