@@ -1098,7 +1098,11 @@ let wordList = [
 		theme: "matematik",
 		words: ["sayı","matris", "denklem","değişken" ],
 	},
-	{theme: "meyve",words:["kivi","hurma","karpuz","ahududu"]}
+	{theme: "meyve",words:["kivi","hurma","karpuz","ahududu"]},
+		{
+		theme: "hayvan",
+		words: ["sincap", "timsah", "zürafa", "hamster"]
+	}
 	
 	
 ]
