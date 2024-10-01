@@ -1103,7 +1103,8 @@ let wordList = [
 		theme: "hayvan",
 		words: ["sincap", "timsah", "zürafa", "hamster"]
 	},
-	{theme: "hamur işi", words:["pişi", "mantı", "poğaça", "kruvasan"]}
+	{theme: "hamur işi", words:["pişi", "mantı", "poğaça", "kruvasan"]},
+	{theme: "sokak lezzetleri", words:["simit", "midye", "kestane", "kokoreç"]}
 	
 	
 ]
