@@ -1104,7 +1104,8 @@ let wordList = [
 		words: ["sincap", "timsah", "zürafa", "hamster"]
 	},
 	{theme: "hamur işi", words:["pişi", "mantı", "poğaça", "kruvasan"]},
-	{theme: "sokak lezzetleri", words:["simit", "midye", "kestane", "kokoreç"]}
+	{theme: "sokak lezzetleri", words:["simit", "midye", "kestane", "kokoreç"]},
+	{theme: "geniş ...",words:["aile","omuz","ekran", "zaman"]}
 	
 	
 ]
