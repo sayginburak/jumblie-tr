@@ -1109,7 +1109,8 @@ let wordList = [
 	{
 		theme: "adalet",
 		words: ["ceza", "savcı", "avukat", "müşteki"],
-	}
+	},
+	{theme: "duygu", words:["güven", "hayret", "sevinç", "bıkkınlık"]}
 	
 	
 ]
