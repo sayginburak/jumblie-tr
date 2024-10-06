@@ -1111,7 +1111,11 @@ let wordList = [
 		words: ["ceza", "savcı", "avukat", "müşteki"],
 	},
 	{theme: "duygu", words:["güven", "hayret", "sevinç", "bıkkınlık"]},
-	{theme: "astroloji", words:["burç", "yıldız", "zodyak", "yükselen"]}
+	{theme: "astroloji", words:["burç", "yıldız", "zodyak", "yükselen"]},
+	{
+		theme: "ışık",
+	 	words: ["gölge", "optik", "kırılma", "floresan"]
+	}
 	
 	
 ]
