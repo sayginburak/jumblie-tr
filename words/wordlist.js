@@ -1119,7 +1119,12 @@ let wordList = [
 	{
 		theme: "meslekler",
 		words: ["doktor","diplomat","çilingir","yazılımcı"],
+	},
+	{
+		theme: "otomotiv",
+		words: ["fren","motor","debriyaj","şanzıman"],
 	}
+	
 	
 	
 ]
