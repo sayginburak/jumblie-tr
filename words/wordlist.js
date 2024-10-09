@@ -1123,6 +1123,10 @@ let wordList = [
 	{
 		theme: "otomotiv",
 		words: ["fren","motor","debriyaj","şanzıman"],
+	},
+	{
+		theme: "gastronomi",
+		words: ["gurme", "marine", "alakart", "kornişon"],
 	}
 	
 	
