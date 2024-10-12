@@ -1135,6 +1135,10 @@ let wordList = [
 	{
 		theme: "bebek",
 		words: ["mama","beşik","kundak","biberon"],
+	},
+	{
+		theme: "asya",
+		words: ["kore","nepal","vietnam","kamboçya"],
 	}
 	
 	
