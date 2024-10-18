@@ -1150,7 +1150,11 @@ let wordList = [
 	},
 	{theme: "tekstil", words:["ipek", "kumaş", "terzi", "nakış"]},
 	{theme: "okul", words:["sınav", "derslik", "müfredat", "öğretmen"]},
-	{theme: "medya", words:["dergi", "radyo", "viral", "editör"]}
+	{theme: "medya", words:["dergi", "radyo", "viral", "editör"]},
+	{
+		theme: "denizcilik",
+		words: ["rota","yelken","kabotaj","şamandıra"],
+	}
 	
 	
 ]
