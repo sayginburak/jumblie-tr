@@ -1154,6 +1154,10 @@ let wordList = [
 	{
 		theme: "denizcilik",
 		words: ["rota","yelken","kabotaj","şamandıra"],
+	},
+	{
+		theme: "fotoğrafçılık",
+		words: ["odak", "tripod", "portre", "objektif"],
 	}
 	
 	
