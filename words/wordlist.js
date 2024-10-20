@@ -1158,6 +1158,10 @@ let wordList = [
 	{
 		theme: "fotoğrafçılık",
 		words: ["odak", "tripod", "portre", "objektif"],
+	},
+	{
+		theme: "çiçekler",
+		words: ["çuha","açelya","yasemin","kasımpatı"],
 	}
 	
 	
