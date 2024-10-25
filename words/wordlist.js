@@ -1172,7 +1172,8 @@ let wordList = [
 		theme: "moda",
 		words: ["retro", "kombin", "kaşmir","podyum"],
 	},
-	{theme: "inşaat",words:["vinç","kalıp","baret","kereste"]}
+	{theme: "inşaat",words:["vinç","kalıp","baret","kereste"]},
+	{theme: "belediye",words:["park", "proje", "zabıta","otobüs"]}
 	
 	
 ]
