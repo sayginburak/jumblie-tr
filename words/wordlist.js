@@ -1175,7 +1175,11 @@ let wordList = [
 	{theme: "inşaat",words:["vinç","kalıp","baret","kereste"]},
 	{theme: "belediye",words:["park", "proje", "zabıta","otobüs"]},
 	{theme: "viral", words:["uçuk", "kuduz", "kızamık", "kabakulak"]},
-	{theme: "tarım",words:["hasat","buğday","ilaçlama","seracılık"]}
+	{theme: "tarım",words:["hasat","buğday","ilaçlama","seracılık"]},
+	{
+		theme: "bahçe",
+		words: ["fide", "tohum", "sulama","bahçıvan"],
+	}
 	
 	
 ]
