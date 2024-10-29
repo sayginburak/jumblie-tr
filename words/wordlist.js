@@ -1179,6 +1179,10 @@ let wordList = [
 	{
 		theme: "bahçe",
 		words: ["fide", "tohum", "sulama","bahçıvan"],
+	},
+	{
+		theme: "cumhuriyet🇹🇷",
+		words: ["halk", "devrim", "anayasa", "egemenlik"],
 	}
 	
 	
