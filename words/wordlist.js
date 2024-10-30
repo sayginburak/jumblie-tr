@@ -1183,7 +1183,8 @@ let wordList = [
 	{
 		theme: "cumhuriyet🇹🇷",
 		words: ["halk", "devrim", "anayasa", "egemenlik"],
-	}
+	},
+	{theme: "sulu",words:["boya","yemek", "sepken", "çözelti"]}
 	
 	
 ]
