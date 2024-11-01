@@ -1185,7 +1185,8 @@ let wordList = [
 		words: ["halk", "devrim", "anayasa", "egemenlik"],
 	},
 	{theme: "sulu",words:["boya","yemek", "sepken", "çözelti"]},
-	{theme: "sosyoloji",words:["norm","statü", "birey", "kültür"]}
+	{theme: "sosyoloji",words:["norm","statü", "birey", "kültür"]},
+	{theme: "lojistik", words:["depo", "kargo", "tedarik", "nakliye"]}
 	
 	
 ]
