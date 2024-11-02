@@ -1186,7 +1186,11 @@ let wordList = [
 	},
 	{theme: "sulu",words:["boya","yemek", "sepken", "çözelti"]},
 	{theme: "sosyoloji",words:["norm","statü", "birey", "kültür"]},
-	{theme: "lojistik", words:["depo", "kargo", "tedarik", "nakliye"]}
+	{theme: "lojistik", words:["depo", "kargo", "tedarik", "nakliye"]},
+	{
+		theme: "spor",
+		words: ["kano", "eskrim", "kriket","tekvando"],
+	}
 	
 	
 ]
