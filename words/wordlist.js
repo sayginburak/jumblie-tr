@@ -1203,7 +1203,11 @@ let wordList = [
 		theme: "avrupa",
 		words: ["çekya", "norveç", "letonya", "danimarka"],
 	},
-	{theme: "hormon",words:["insülin","dopamin", "endorfin", "adrenalin"]}
+	{theme: "hormon",words:["insülin","dopamin", "endorfin", "adrenalin"]},
+	{
+		theme: "çiçek",
+		words: ["lale", "mimoza", "nilüfer","krizantem"],
+	}
 	
 	
 ]
