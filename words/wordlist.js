@@ -1217,7 +1217,8 @@ let wordList = [
 		words: ["uşak", "tulum", "yayla", "trabzon"],
 	},
 	{theme: "futbol",words:["asist", "verkaç", "penaltı", "bonservis"]},
-	{theme: "basketbol",words:["smaç", "pota", "ribaund", "turnike"]}
+	{theme: "basketbol",words:["smaç", "pota", "ribaund", "turnike"]},
+	{theme: "voleybol",words:["blok", "servis", "manşet", "libero"]}
 	
 	
 ]
