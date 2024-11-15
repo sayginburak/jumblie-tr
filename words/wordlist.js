@@ -1226,6 +1226,10 @@ let wordList = [
 	{
 		theme: "astronomi",
 		words: ["mars","meteor","teleskop","samanyolu"],
+	},
+	{
+		theme: "kebaplar",
+		words: ["beyti", "tandır", "büryan", "iskender"],
 	}
 	
 	
