@@ -1231,7 +1231,12 @@ let wordList = [
 		theme: "kebaplar",
 		words: ["beyti", "tandır", "büryan", "iskender"],
 	},
-	{theme: "... etmek", words:["ikna", "devam", "teklif", "tavsiye"]}
+	{theme: "... etmek", words:["ikna", "devam", "teklif", "tavsiye"]},	
+	{
+		theme: "deniz",
+		words: ["gemi", "dalgıç", "yengeç", "denizaltı"],
+	}
+	
 	
 	
 ]
