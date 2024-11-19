@@ -1236,7 +1236,11 @@ let wordList = [
 		theme: "deniz",
 		words: ["gemi", "dalgıç", "yengeç", "denizaltı"],
 	},
-	{theme: "fizik",words:["ivme", "kütle", "frekans", "görelilik"]}
+	{theme: "fizik",words:["ivme", "kütle", "frekans", "görelilik"]},
+	{
+		theme: "bankacılık",
+		words: ["faiz", "kredi", "mevduat", "transfer"],
+	}
 	
 	
 	
