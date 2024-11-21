@@ -1244,7 +1244,8 @@ let wordList = [
 	{
 		theme: "elektronik",
 		words: ["devre", "sensör", "batarya","regülatör"],
-	}
+	},
+	{theme: "tiyatro",words:["gişe","sahne", "müzikal", "festival"]}
 	
 	
 	
