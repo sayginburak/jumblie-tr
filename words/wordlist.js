@@ -1258,7 +1258,8 @@ let wordList = [
 		theme: "turizm",
 		words: ["müze","keşif","festival","güzergah"],
 	},
-	{theme: "botanik",words:["sera","tohum","yaprak","klorofil"]}
+	{theme: "botanik",words:["sera","tohum","yaprak","klorofil"]},
+	{theme: "doğa",words:["vadi", "orman", "şelale", "yürüyüş"]}
 	
 	
 	
