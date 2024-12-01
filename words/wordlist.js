@@ -1263,7 +1263,8 @@ let wordList = [
 	{theme: "organ", words:["deri", "beyin", "pankreas", "karaciğer"]},
 	{theme: "kitap", words:["özet", "sahaf", "çevirmen", "kütüphane"]},
 	{theme: "yeşillik",words:["tere", "pazı", "kişniş", "fesleğen"]},
-	{theme: "pandemi",words:["vaka","maske", "temas", "izolasyon"]}
+	{theme: "pandemi",words:["vaka","maske", "temas", "izolasyon"]},
+	{theme: "gelenek",words:["töre","adet", "kültür","görenek"]}
 
 	
 	
