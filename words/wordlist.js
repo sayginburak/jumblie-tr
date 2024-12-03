@@ -1265,7 +1265,8 @@ let wordList = [
 	{theme: "yeşillik",words:["tere", "pazı", "kişniş", "fesleğen"]},
 	{theme: "pandemi",words:["vaka","maske", "temas", "izolasyon"]},
 	{theme: "gelenek",words:["töre","adet", "kültür","görenek"]},
-	{theme: "kuş",words:["gaga","serçe", "kartal","papağan"]}
+	{theme: "kuş",words:["gaga","serçe", "kartal","papağan"]},
+	{theme: "dil",words:["lehçe","svahili","bulgarca","vietnamca"]}
 
 	
 	
