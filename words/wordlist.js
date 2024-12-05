@@ -1267,7 +1267,8 @@ let wordList = [
 	{theme: "gelenek",words:["töre","adet", "kültür","görenek"]},
 	{theme: "kuş",words:["gaga","serçe", "kartal","papağan"]},
 	{theme: "dil",words:["lehçe","svahili","bulgarca","vietnamca"]},
-	{theme: "metal",words:["çinko", "kobalt", "kurşun", "titanyum"]}
+	{theme: "metal",words:["çinko", "kobalt", "kurşun", "titanyum"]},
+	{theme: "divan edebiyatı", words:["aruz", "beyit", "nesir", "kaside"]}
 
 	
 	
