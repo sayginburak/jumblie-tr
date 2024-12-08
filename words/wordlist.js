@@ -1270,7 +1270,8 @@ let wordList = [
 	{theme: "metal",words:["çinko", "kobalt", "kurşun", "titanyum"]},
 	{theme: "divan edebiyatı", words:["aruz", "beyit", "nesir", "kaside"]},
 	{theme: "emlak", words:["tapu", "kontrat", "taşınmaz", "depozito"]},
-	{theme: "çorba",words:["paça", "balık", "şehriye", "lebeniye"]}
+	{theme: "çorba",words:["paça", "balık", "şehriye", "lebeniye"]},
+	{theme: "akrabalar",words:["elti", "torun", "kuzen", "kayınço"]}
 
 	
 	
