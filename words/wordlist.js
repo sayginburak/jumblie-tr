@@ -1271,8 +1271,11 @@ let wordList = [
 	{theme: "divan edebiyatı", words:["aruz", "beyit", "nesir", "kaside"]},
 	{theme: "emlak", words:["tapu", "kontrat", "taşınmaz", "depozito"]},
 	{theme: "çorba",words:["paça", "balık", "şehriye", "lebeniye"]},
-	{theme: "akrabalar",words:["elti", "torun", "kuzen", "kayınço"]}
-
+	{theme: "akrabalar",words:["elti", "torun", "kuzen", "kayınço"]},	
+        {
+		theme: "antik",
+		words: ["efes", "fresk", "mozaik", "arkeoloji"],
+	}
 	
 	
 	
