@@ -1283,7 +1283,8 @@ let wordList = [
 		words: ["cins", "hücre", "anatomi", "mutasyon"]
 	},
 	{theme: "felsefe", words:["etik", "bilgi", "varoluş", "sokrates"]},
-	{theme: "sanat", words:["opera", "galeri", "estetik", "edebiyat"]}
+	{theme: "sanat", words:["opera", "galeri", "estetik", "edebiyat"]},
+	{theme: "istanbul", words:["fatih", "galata", "ayasofya", "yerebatan"]}
 	
 	
 	
