@@ -1284,7 +1284,11 @@ let wordList = [
 	},
 	{theme: "felsefe", words:["etik", "bilgi", "varoluş", "sokrates"]},
 	{theme: "sanat", words:["opera", "galeri", "estetik", "edebiyat"]},
-	{theme: "istanbul", words:["fatih", "galata", "ayasofya", "yerebatan"]}
+	{theme: "istanbul", words:["fatih", "galata", "ayasofya", "yerebatan"]},
+	{
+		theme: "türk müziği",
+		words: ["semai","makam", "taksim", "bağlama"]
+	}
 	
 	
 	
