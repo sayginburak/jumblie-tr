@@ -1300,6 +1300,10 @@ let wordList = [
 	{
 		theme: "asya başkentleri",
 		words: ["seul","tokyo","pekin","bangkok"],
+	},
+	{
+		theme: "halk oyunları",
+		words:["teke","horon","kafkas","karşılama"]
 	}
 	
 	
