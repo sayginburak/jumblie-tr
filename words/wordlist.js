@@ -1304,7 +1304,8 @@ let wordList = [
 	{
 		theme: "halk oyunları",
 		words:["teke","horon","kafkas","karşılama"]
-	}
+	},
+	{theme: "güneydoğu", words:["fırat", "halay", "mardin", "hasankeyf"]}
 	
 	
 	
