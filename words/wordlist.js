@@ -1322,6 +1322,10 @@ let wordList = [
 	{
 		theme: "ilişki",
 		words: ["yakın", "sosyal", "toksik", "evlilik"]
+	},
+		{
+		theme: "duygular",
+		words: ["öfke", "hüzün", "minnet", "heyecan"],
 	}
 	
 	
