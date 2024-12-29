@@ -1330,6 +1330,10 @@ let wordList = [
 	{
 		theme: "oyun",
 		words: ["tabu", "kural", "satranç", "iskambil"],
+	},
+	{
+		theme: "ekonomi",
+		words: ["talep", "ithalat", "kambiyo", "likidite"],
 	}
 	
 	
