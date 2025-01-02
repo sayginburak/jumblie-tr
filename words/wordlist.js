@@ -1343,7 +1343,8 @@ let wordList = [
 	{
 		theme: "ev yemeği",
 		words: ["türlü", "sarma", "mücver", "musakka"],
-	}
+	},
+	{theme: "havacılık", words:["apron", "kokpit", "karakutu", "altimetre"]}
 	
 	
 	
