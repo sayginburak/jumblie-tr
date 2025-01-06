@@ -1356,6 +1356,10 @@ let wordList = [
 	{
 		theme: "matematik",
 		words: ["sayı","matris", "denklem","değişken" ],
+	},
+	{
+		theme: "bulaşıcı hastalıklar",
+		words: ["uyuz","ebola","şarbon","tetanoz"],
 	}
 	
 	
