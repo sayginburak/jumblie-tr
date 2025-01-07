@@ -1360,6 +1360,10 @@ let wordList = [
 	{
 		theme: "bulaşıcı hastalıklar",
 		words: ["uyuz","ebola","şarbon","tetanoz"],
+	},
+	{
+		theme: "hayvan",
+		words: ["panda", "yarasa", "kanguru","gergedan"],
 	}
 	
 	
