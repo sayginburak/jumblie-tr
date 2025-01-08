@@ -1364,6 +1364,10 @@ let wordList = [
 	{
 		theme: "hayvan",
 		words: ["panda", "yarasa", "kanguru","gergedan"],
+	},
+	{
+		theme: "siyaset",
+		words: ["parti", "seçim", "muhalif", "hükümet"],
 	}
 	
 	
