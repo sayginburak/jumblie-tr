@@ -1368,6 +1368,10 @@ let wordList = [
 	{
 		theme: "siyaset",
 		words: ["parti", "seçim", "muhalif", "hükümet"],
+	},
+	{
+		theme: "japonya",
+		words: ["suşi","geyşa","samuray","hiroşima"],
 	}
 	
 	
