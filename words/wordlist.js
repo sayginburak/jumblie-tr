@@ -1376,6 +1376,10 @@ let wordList = [
 	{
 		theme: "hukuk",
 		words: ["yasa", "istinaf", "müdafaa", "mülkiyet"],
+	},
+	{
+		theme: "internet",
+		words: ["site", "email", "sunucu", "tarayıcı"],
 	}
 	
 	
