@@ -1384,7 +1384,8 @@ let wordList = [
 	{
 		theme: "mimari",
 		words: ["avlu","sütun","gotik","payanda"],
-	}
+	},
+	{theme: "temizlik", words:["bahar", "hijyen", "paspas", "deterjan"]}
 	
 	
 	
