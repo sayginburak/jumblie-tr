@@ -1393,6 +1393,10 @@ let wordList = [
 	{
 		theme: "afrika ülkeleri",
 		words: ["mali","sudan","uganda","etiyopya"],
+	},
+	{
+		theme: "meslekler",
+		words: ["doktor","diplomat","çilingir","yazılımcı"],
 	}
 	
 	
